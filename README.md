@@ -12,7 +12,7 @@
 
 ## منابع پیشنهادی برای یادگیری
 
-### مقالات Medium (بهترین‌ها):
+### مقالات Medium :
 1. **Mastering the Repository Design Pattern in Laravel**  
    لینک: https://medium.com/@shaunthornburgh/mastering-the-repository-design-pattern-in-laravel-67ed3805addd
 
@@ -22,7 +22,7 @@
 3. **Best Way to Implement Repository Pattern in Laravel**  
    لینک: https://medium.com/@habibur.rahman.0927/best-way-to-implement-repository-pattern-in-laravel-c3da491a63e0
 
-### ویدیوهای یوتیوب (جدیدترین):
+### ویدیوهای یوتیوب :
 - **Laravel Repository Pattern: "Good" vs "Bad" Examples** (اکتبر ۲۰۲۵ - خیلی به‌روز و عملی)  
   کانال: Laravel Daily  
   لینک: https://www.youtube.com/watch?v=kc584MVcvmI
